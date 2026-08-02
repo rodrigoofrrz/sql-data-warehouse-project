@@ -100,6 +100,6 @@ sql-data-warehouse-project/
 Me chamo Rodrigo Ferraz. Sou um profissional na área de dados, formado em Administração e cursando Sistemas de Informação.
 Meu objetivo profissional é evoluir para posições de liderança, atuando como engenheiro de dados capaz de conectar estratégia de negócio e tecnologia, liderar equipes técnicas, estruturar processos de governança de dados e apoiar a transformação digital das empresas por meio de decisões baseadas em dados.
 
-![<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" width="20"/> LinkedIn](https://www.linkedin.com/in/rodriferraz9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriferraz9/)
 
 
